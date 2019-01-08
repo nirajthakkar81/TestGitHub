@@ -4,7 +4,7 @@ public class NewGitClass {
 	
 	public static void main(String ar[]) {
 		
-		System.out.println("Hello New Git");
+		System.out.println("Hello New Git 123");
 	}
 
 }
